@@ -1,16 +1,31 @@
 # Sahil Sachin Deshmukh
 
 ## About Me
-🎓 Fourth-year Bachelor of Engineering student majoring in Computer Engineering at SNJB's Late Sau. Kantabai Bhavarlalji Jain College of Engineering, Nashik  
-🌟 Passionate about front-end development and web technologies, with a focus on creating seamless user experiences  
-💬 Developed a chatbot using Python (Flask), NumPy, and NLTK, demonstrating proficiency in natural language processing and AI integration  
-💻 Proficient in JavaScript, jQuery, AJAX, CSS, DataTables, and select2, adept at building responsive and interactive web applications  
-🐍 Experienced in Python (Flask) and PHP for server-side scripting, with a strong foundation in backend development  
+I am a 2025 Bachelor of Engineering (Computer Engineering) graduate seeking an entry-level Java Developer / Software Developer role.
 
-## Goals
-My goal is to leverage my skills in front-end development, backend scripting, and AI to contribute to innovative web solutions. I am actively seeking opportunities to apply my knowledge in real-world projects, continuously learn new technologies, and contribute to open-source communities.
+I work primarily with Core Java and object-oriented programming principles, focusing on writing clean, structured, and maintainable code. I have hands-on experience implementing OOP concepts such as inheritance, polymorphism, abstraction, collections, exception handling, and basic multithreading in practical programs and mini-projects.
 
-## Contact Information
-📧 Email: Sahildeshmukh.3008@gmail.com  
-🔗 LinkedIn: [LinkedIn Profile](https://linkedin.com/in/sahil3008)  
-🔗 GitHub: [GitHub Profile](https://github.com/Sahill3008)
+Alongside Java, I have experience working with SQL fundamentals and relational database concepts. I enjoy understanding how backend systems work end-to-end and continuously apply new concepts by building and refining projects.
+
+I am an eager learner who actively explores modern development practices, backend architectures, and emerging technologies, and I quickly adapt by implementing new ideas into working code.
+
+## Technical Skills
+- **Languages:** Core Java, SQL
+- **Concepts:** OOPs, Collections Framework, Exception Handling, Multithreading (Basics), JDBC (Basics)
+- **Web Basics:** HTML, CSS, JavaScript
+- **Tools:** Git, GitHub, Eclipse / IntelliJ
+- **Additional Exposure:** Python, Flask, PHP
+
+## Development Focus
+- Backend development using Java
+- Database-driven application logic
+- Writing clean, readable, and scalable code
+- Exploring modern Java frameworks and industry best practices
+
+## Career Objective
+To begin my career as a Java Developer where I can contribute through strong fundamentals, implement new technologies in real projects, and grow into a well-rounded backend engineer.
+
+## Contact
+Email: Sahildeshmukh.3008@gmail.com  
+LinkedIn: https://linkedin.com/in/sahil3008  
+GitHub: https://github.com/Sahill3008
